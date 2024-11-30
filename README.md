@@ -34,9 +34,9 @@ This project aims to analyze customer purchasing behavior at Walmart using a com
 ---
 
 ## Dataset
-The dataset used for this project is provided by Walmart and contains information on:
-- **Customer Demographics:** Age, Gender, Occupation, etc.
-- **Transaction Data:** Purchase Amount, Product Categories, etc.
+The dataset used in this project was sourced from **Kaggle**:  
+**[Unearthing Walmart’s Customer Insights](https://www.kaggle.com/code/nileshely/unearthing-walmart-s-customer-insights/notebook)** by Nilesh Gupta.  
+It contains customer demographic information, product categories, and purchase amounts, providing a comprehensive dataset for analysis.
 
 ### Data Preprocessing
 1. **Encoding categorical data:** Binary encoding for gender, marital status, and city categories.
